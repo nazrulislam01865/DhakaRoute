@@ -1,0 +1,107 @@
+Rent : 2.45
+
+Abdullahpur
+-----------
+2
+Agargaon
+-----------
+15.4
+Azimpur
+-----------
+27.6
+Azampur
+-----------
+1.3
+Airport
+------------
+4
+Asad Gate
+------------
+18.5
+Bangla Motor
+------------
+19.4
+Banani
+-------------
+14.5
+Bijoy Sarani
+-------------
+16.9
+Badda
+--------------
+14.9
+Banasree
+-------------
+17.6
+Bosila
+--------------
+21
+Bashabo
+-------------
+23.8
+Bashundhara
+-------------
+15.5
+Dhanmondi
+-------------
+22
+ECB
+-------------
+15
+Panthapath
+Farmgate
+Gulistan
+Gabtoli
+Gulshan 1
+Gulshan 2
+House Building
+Jashimuddin (Uttara)
+Jamuna Future Park
+Jatrabari
+Kuril Bishwa Road
+Kakali
+Kallyanpur
+Kalshi
+Kamlapur
+Khilgaon
+Kamarpara
+Khilkhet
+Link Road
+Motijheel
+Mohakhali
+Mirpur 1
+Mirpur 2
+Mirpur 10
+Mirpur 11
+Mogbazar
+Malibagh
+Merul
+Madhya Badda
+Mohammadpur
+Mirpur DOHS
+Notun Bazar
+Nadda
+Nilkhet
+New Market
+Paltan
+Press Club
+Purobi
+Pallabi
+Panthapath
+Proshika Moor
+Rajlakshmi
+Rampura
+Rajarbag
+Rupnagar
+Shahbag
+Sainik Club
+Shyamoli
+Shishu Mela
+Shantinagar
+Science lab
+Shahjadpur
+Sayedabad
+Shonir Akhra
+Sadarghat
+Uttara
+Uttar Badda

@@ -1,0 +1,218 @@
+Rent : 2.40
+
+Abdullahpur
+-----------
+2
+Agargaon
+-----------
+15.4
+Azimpur
+-----------
+27.6
+Azampur
+-----------
+1.3
+Airport
+------------
+4
+Asad Gate
+------------
+18.5
+Bangla Motor
+------------
+19.4
+Banani
+-------------
+14.5
+Bijoy Sarani
+-------------
+16.9
+Badda
+--------------
+14.9
+Banasree
+-------------
+17.6
+Bosila
+--------------
+21
+Bashabo
+-------------
+23.8
+Bashundhara
+-------------
+15.5
+Dhanmondi
+-------------
+22
+ECB
+-------------
+15
+Farmgate
+-------------
+20
+Gulistan
+-------------
+23
+Gabtoli
+-------------
+18
+Gulshan 1
+-------------
+16
+Gulshan 2
+-------------
+14
+House Building
+-------------
+2.8
+Jashimuddin (Uttara)
+-------------
+4.2
+Jamuna Future Park
+-------------
+11
+Jatrabari
+-------------
+24
+Kuril Bishwa Road
+-------------
+9.5
+Kakali
+-------------
+15
+Kallyanpur
+-------------
+19
+Kalshi
+-------------
+11
+Kamlapur
+-------------
+22
+Khilgaon
+-------------
+21
+Kamarpara
+-------------
+3
+Khilkhet
+-------------
+8.9
+Link Road
+-------------
+14
+Motijheel
+-------------
+23
+Mohakhali
+-------------
+17
+Mirpur 1
+-------------
+17
+Mirpur 2
+-------------
+13
+Mirpur 10
+-------------
+12
+Mirpur 11
+-------------
+11
+Mogbazar
+-------------
+19
+Malibagh
+-------------
+19
+Merul
+-------------
+18
+Madhya Badda
+-------------
+14
+Mohammadpur
+-------------
+22
+Mirpur DOHS
+-------------
+9
+Notun Bazar
+-------------
+12
+Nadda
+-------------
+12
+Nilkhet
+-------------
+21
+New Market
+-------------
+22
+Paltan
+-------------
+21
+Press Club
+-------------
+23
+Purobi
+-------------
+11
+Pallabi
+-------------
+9.7
+Panthapath
+-------------
+20
+Proshika Moor
+-------------
+12
+Rajlakshmi
+-------------
+3.7
+Rampura
+-------------
+16
+Rajarbag
+-------------
+21
+Rupnagar
+-------------
+11
+Shahbag
+-------------
+21
+Sainik Club
+-------------
+14
+Shyamoli
+-------------
+18
+Shishu Mela
+-------------
+3.5
+Shantinagar
+-------------
+21
+Science lab
+-------------
+21
+Shahjadpur
+-------------
+14
+Sayedabad
+-------------
+25
+Shonir Akhra
+-------------
+28
+Sadarghat
+-------------
+26
+Uttara
+-------------
+3.3
+Uttar Badda
+-------------
+13
